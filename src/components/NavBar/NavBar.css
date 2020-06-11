@@ -1,0 +1,9 @@
+.navlogo {
+  color: var(--themeColor);
+}
+.navbar-transparent {
+  background-color: transparent;
+}
+a > p {
+  color: white;
+}

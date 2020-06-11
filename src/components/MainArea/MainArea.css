@@ -1,0 +1,22 @@
+.main-area {
+  background-image: url("../../assets/workout-713658_1280.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+}
+.hero-area-text {
+  text-align: center;
+  padding: 12rem 0 1rem;
+  color: white;
+  font-size: 37px;
+}
+.hero-area-text-two {
+  color: #7b965a;
+  font-family: "Darker Grotesque", sans-serif;
+}
+.button-color {
+  color: white;
+  background-color: var(--themeColor);
+  padding: 0 4rem;
+}

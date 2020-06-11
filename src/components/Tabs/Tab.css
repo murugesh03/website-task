@@ -1,0 +1,51 @@
+.tabs ul,
+.card-view {
+  overflow-x: hidden;
+  overflow-y: hidden;
+}
+.tab-icon {
+  width: 80px;
+  height: 100px;
+  color: black;
+}
+.tab-list {
+  transform: translateY(-70px);
+}
+.card-view-hover {
+  border-bottom: 2px solid var(--themeColor);
+}
+.tab-text {
+  text-align: center;
+}
+.columns-gap {
+  margin-top: 2rem;
+}
+.image-width {
+  width: 120px;
+}
+.card-view {
+  display: flex;
+  flex-direction: column;
+  background-color: white;
+}
+.icon-width {
+  height: auto;
+  width: auto;
+  padding: 1rem 4rem;
+}
+.card-rating {
+  display: flex;
+  justify-content: space-between;
+}
+.card-rating-content {
+  margin: 1rem;
+}
+.card-rating-text {
+  font-weight: 600;
+}
+.button-color {
+  padding: 0 3rem;
+  background-color: var(--themeColor);
+  color: white;
+  margin: 0 1rem;
+}
